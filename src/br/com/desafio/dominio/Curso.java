@@ -4,5 +4,5 @@ public class Curso {
         String tiutulo;
         String descricao;
         int cargaHoraria;
-        int horario;
+        int horaria;
 }
