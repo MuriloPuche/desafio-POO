@@ -1,4 +1,6 @@
 package br.com.desafio.dominio;
 
-public class Mentoria {
+public class Mentoria{
+
+
 }
